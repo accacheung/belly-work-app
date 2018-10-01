@@ -1,1 +1,1 @@
-web: gunicorn --chdir Code/Belly_Button_Biodiversity.app:app
+web: gunicorn Belly_Button_Biodiversity.app:app
